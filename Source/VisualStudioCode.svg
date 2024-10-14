@@ -2,18 +2,38 @@
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
 
 <svg
-   x="0px"
-   y="0px"
    width="48px"
    height="48px"
-   viewBox="0 0 48 48"
+   viewBox="0 -1 48 48"
    version="1.1"
    preserveAspectRatio="xMidYMid"
-   id="VisualStudioCode"
+   id="svg25"
    sodipodi:docname="VisualStudioCode.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview27"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="20.54"
+     inkscape:cx="48.588121"
+     inkscape:cy="10.248296"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="709"
+     inkscape:window-y="1431"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg25" />
   <defs
      id="defs8">
     <path
@@ -40,7 +60,7 @@
   </defs>
   <g
      id="g23"
-     transform="matrix(0.18823242,0,0,0.18920769,0,-3.1247409e-5)">
+     transform="matrix(0.18823242,0,0,0.18920769,0,-1.0000312)">
     <mask
        id="mask-2"
        fill="#ffffff">
